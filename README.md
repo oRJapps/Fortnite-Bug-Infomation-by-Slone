@@ -3,7 +3,7 @@ Doctor Slone delivers information on Fortnite bugs File
 # How to use
 1.Get the key for the API of DeepL<br>
 Website: https://www.deepl.com/ja/pro-api?cta=header-pro-api<br>
-(※Japanese Site)<br><br>
+(※A credit card is required to obtain Key)<br>
 Set the key and translation language of DeepL obtained in the settings.json<br>
 2.Install the library at DeepL<br>
 ```cmd prompt
